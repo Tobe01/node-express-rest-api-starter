@@ -50,7 +50,6 @@ node-express-rest-api-starter/
 ```bash
 npm install
 
----
 ```
 ## Start the server:
 ```bash
